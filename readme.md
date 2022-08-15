@@ -13,4 +13,4 @@ it's take near about 1 Hour to complete.
 
 ## Deployed link
 
-[Law landing page)](ninis-restaurant.netlify.app)
+[Law landing page)](law-for-everyone.netlify.app)
